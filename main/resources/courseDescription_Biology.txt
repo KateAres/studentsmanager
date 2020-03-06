@@ -1,0 +1,7 @@
+"Biology is the natural science that studies life and living organisms, including their physical structure,
+chemical processes, molecular interactions, physiological mechanisms, development and evolution. 
+Despite the complexity of the science, there are certain unifying concepts that consolidate it into a single, 
+coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, 
+and evolution as the engine that propels the creation and extinction of species. Living organisms are open 
+systems that survive by transforming energy and decreasing their local entropy[2] to maintain a stable and 
+vital condition defined as homeostasis."
